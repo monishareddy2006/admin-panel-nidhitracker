@@ -1,0 +1,5 @@
+{
+  "name": "Aceternity Sidebar Demo",
+  "description": "A modern, responsive sidebar component implementation using React, Tailwind CSS, and Framer Motion, featuring a collapsible design and smooth animations.",
+  "requestFramePermissions": []
+}
