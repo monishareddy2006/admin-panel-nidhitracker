@@ -140,7 +140,7 @@ export default function ReportsPage() {
       </div>
 
       {/* Worker Comparison Table */}
-      <div className="bg-white dark:bg-neutral-800 rounded-xl shadow-sm border border-neutral-200 dark:border-neutral-700 p-6 flex flex-col h-full">
+      <div className="bg-white dark:bg-neutral-800 rounded-xl shadow-sm border border-neutral-200 dark:border-neutral-700 p-6 flex flex-col md:flex-row gap-6">
          <div className="flex items-center justify-between mb-4">
              <h2 className="text-lg font-semibold text-neutral-900 dark:text-white">Top Spenders (Descending)</h2>
              <span className="text-xs text-neutral-500 bg-neutral-100 dark:bg-neutral-700 px-2 py-1 rounded">Select a user to view details</span>
